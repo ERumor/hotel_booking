@@ -14,7 +14,7 @@ The goal of the project is to create a Hotel Booking application using Flutter\D
 - **Order Paid Screen:** Notification of successful acceptance of the order into work in a beautiful design..
 
 **Stack:**
-- Visual Studio Code, Flutter/Dart, Riverpod Management Library, Mocky.io API.
+- Visual Studio Code, Flutter/Dart, Riverpod State Management Library, Mocky.io API.
 
 **Packages:** 
 -  flutter_riverpod,
